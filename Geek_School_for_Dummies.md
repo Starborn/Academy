@@ -2,7 +2,7 @@
 
 **A plain-language guide to the most talked-about topics in tech -- what they are, who needs them, how hard they are to learn, and where to start.**
 
-*ESL Labs / Anthropomorphic Press, April 2026*
+*ESL Labs /  April 2026*
 
 ---
 
